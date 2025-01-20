@@ -1,4 +1,4 @@
-# Logiciel de gestion de données statistiques
+# Logiciel de gestion de données statistiques | par *CHEAM Nathan*
 
 **Data-Statistica** est un logiciel conçu pour la gestion de données statistiques. Développé avec *Laravel*, il s'appuie sur une base de données pour offrir des fonctionnalités complètes en matière de visualisation et de manipulation des statistiques.
 
