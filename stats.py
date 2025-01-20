@@ -111,7 +111,6 @@ Si vous avez un ensemble de notes d'élèves [10,12,14,16,18] :
 Cela signifie que les notes sont, en moyenne, dispersées d'environ 2.83 points autour de la moyenne 14.
 '''
 
-
 #TEST des fonctions existantes
 """
 print("Saisissez un nom à votre nouveau fichier CSV")
