@@ -29,8 +29,8 @@ Avant de commencer, assurez-vous que les outils suivants sont installés sur vot
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/NathanCheam/logiciel_stats.git
-   cd logiciel_stats
+   git clone https://github.com/NathanCheam/data-statistica.git
+   cd data-statistica
    ```
 2. Installez les dépendances :
    ```bash
