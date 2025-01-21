@@ -1,4 +1,4 @@
-# Logiciel de gestion de données statistiques | par *CHEAM Nathan*
+# Logiciel de gestion de données statistiques | par *CHEAM Nathan* (**En cours de réalisation**)
 
 **Data-Statistica** est un logiciel conçu pour la gestion de données statistiques. Développé avec *Laravel*, il s'appuie sur une base de données pour offrir des fonctionnalités complètes en matière de visualisation et de manipulation des statistiques.
 
@@ -22,6 +22,7 @@ Avant de commencer, assurez-vous que les outils suivants sont installés sur vot
 - **SQLite** | *Système de gestion de base de données*
 - **Composer** | *Gestionnaire de dépendances PHP* (A partir de la version 2.0)
 - **Laravel** | *Framework PHP*
+- **Python** | *Langage de programmation* (A partir de la version 3.0)
 
 ### Étapes d'installation
 
