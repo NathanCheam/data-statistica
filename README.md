@@ -1,6 +1,6 @@
 # Logiciel de gestion de données statistiques | par *CHEAM Nathan* (**En cours de réalisation**)
 
-**Data-Statistica** est un logiciel conçu pour la gestion de données statistiques. Développé avec *Laravel*, il s'appuie sur une base de données pour offrir des fonctionnalités complètes en matière de visualisation et de manipulation des statistiques.
+**Data-Statistica** est un logiciel conçu pour la gestion de données statistiques. Développé avec le framework PHP *Laravel*, il permet l'exécution de fonctions en *Python* et l'affichage de leurs retours. Ce logiciel s'appuie sur une base de données pour offrir des fonctionnalités complètes en matière de visualisation et de manipulation des statistiques.
 
 ---
 
@@ -9,6 +9,7 @@
 - **Gestion des utilisateurs :** Création, modification et suppression des comptes utilisateurs
 - **Gestion des données statistiques :** Ajout, modification, suppression et organisation des données.
 - **Visualisation graphique :** Génération de graphiques interactifs et dynamiques.
+- **Exécution de fonctions Python :** Lancement de scripts Python et affichage des résultats dans l'interface.
 - **Exportation des données :** Possibilité d'exporter les données au format CSV ou Excel pour une analyse externe.
 
 ---
